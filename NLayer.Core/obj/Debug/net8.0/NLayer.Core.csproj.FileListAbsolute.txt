@@ -1,0 +1,11 @@
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\bin\Debug\net8.0\NLayer.Core.deps.json
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\bin\Debug\net8.0\NLayer.Core.dll
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.dll
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net8.0\refint\NLayer.Core.dll
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net8.0\NLayer.Core.pdb
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net8.0\ref\NLayer.Core.dll

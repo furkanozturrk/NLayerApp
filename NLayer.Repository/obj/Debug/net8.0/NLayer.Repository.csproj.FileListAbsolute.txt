@@ -1,0 +1,17 @@
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Repository.deps.json
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Repository.runtimeconfig.json
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Repository.dll
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Repository.pdb
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Core.dll
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\bin\Debug\net8.0\NLayer.Core.pdb
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.dll
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\refint\NLayer.Repository.dll
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.pdb
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\NLayer.Repository.genruntimeconfig.cache
+C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\NLayerApp\NLayerApp\NLayer.Repository\obj\Debug\net8.0\ref\NLayer.Repository.dll
